@@ -1,0 +1,4 @@
+.idea
+client/public/builds/*
+bower_components/*
+node_modules/*
