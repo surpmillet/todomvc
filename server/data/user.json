@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username":"michao",
+      "name":"米超",
+      "occupation": "Developer",
+      "signatures": ["1", "2"]
+    },
+    {
+      "id": 2,
+      "username": "youyang",
+      "name": "尤扬",
+      "occupation": "Accountant",
+      "signatures": ["3"]
+    },
+    {
+      "id": 3,
+      "username": "wenfangping",
+      "name": "温芳平",
+      "occupation": "Student",
+      "signatures": ["4"]
+    }
+  ],
+
+  "signatures": [
+    {
+      "id": 1,
+      "other": "舍我其谁！"
+    },
+    {
+      "id": 2,
+      "other": "喳"
+    },
+    {
+      "id": 3,
+      "other": "我送你离开，千里之外"
+    },
+    {
+      "id": 4,
+      "other": "事不关已，高高挂起"
+    }
+  ]
+}
